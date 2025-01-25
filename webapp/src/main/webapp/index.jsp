@@ -11,6 +11,9 @@
     <label for="text"><b>MotherName</b></label>
     <input type="text" placeholder="Enter your MotherName" name="mothername" id="name" required>
     <br>
+    <label for="text"><b>FatherName</b></label>
+    <input type="text" placeholder="Enter your FatherName" name="fathername" id="name" required>
+    <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
